@@ -1,0 +1,4 @@
+main
+my__list ={1, 2, 3} 
+my__list. insert(1, 99)
+print(my__list) 
