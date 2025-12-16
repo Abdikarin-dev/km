@@ -28,6 +28,7 @@ Store and search contacts
 
 ## 🚀 How to Run
 ```bash
+
 python random-guess-game.py
 
 📚 Learning Philosophy
