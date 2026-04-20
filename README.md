@@ -60,6 +60,11 @@ Example:
 python random-guess-game.py
 📚 Learning Philosophy
 
+## Open Source Contributions
+- **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Contributor
+
+
+
 Learning every day, one step at a time — building real understanding through projects and practice.🚀
 
 
